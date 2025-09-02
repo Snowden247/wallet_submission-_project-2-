@@ -1,5 +1,5 @@
-DB_HOST=mysql://root:WEjXcwJChFrGNBFDGpWHuXYrKhgvDtQs@crossover.proxy.rlwy.net:37343/railway
+DB_HOST=crossover.proxy.rlwy.net
 DB_USER=root
 DB_PASSWORD=WEjXcwJChFrGNBFDGpWHuXYrKhgvDtQs
 DB_NAME=railway
-PORT=3306
+PORT=37343
